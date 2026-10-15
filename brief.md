@@ -11,7 +11,7 @@ Resource: NIST - Software Glossary - https://csrc.nist.gov/glossary/term/softwar
 AI
 Artificial Intelligence (AI) refers to computer systems designed to perform tasks that typically require human intelligence. In networking, AI can help analyze network traffic, detect unusual activity, predict potential failures, and support network management decisions. For example, AI-powered tools can identify patterns that may indicate a security threat. However, AI results depend on the quality of the data and the design of the system. Human oversight remains important when using AI to manage networks.
 
-Resource: NIST - Artificial Intelligence Glossary - https://csrc.nist.gov/glossary/term/artificial_intelligence
+Resource: NIST - Artificial Intelligence (AI) Glossary - https://csrc.nist.gov/glossary/term/ai
 
 Mobile
 Mobile devices, including smartphones and tablets, connect users to applications and online services through Wi-Fi and cellular networks. They exchange data with other devices and servers, making mobile connectivity an important part of modern networking. However, mobile devices can create security risks when they access sensitive information or connect to untrusted networks. Regular security updates, strong authentication, and managed access help reduce these risks and protect both users and the networks they use.
