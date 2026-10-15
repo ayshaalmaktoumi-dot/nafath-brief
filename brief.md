@@ -9,6 +9,10 @@ Software is a set of programs and instructions that enable computers and network
 Resource: NIST - Software Glossary - https://csrc.nist.gov/glossary/term/software
 
 AI
+Artificial Intelligence (AI) refers to computer systems designed to perform tasks that typically require human intelligence. In networking, AI can help analyze network traffic, detect unusual activity, predict potential failures, and support network management decisions. For example, AI-powered tools can identify patterns that may indicate a security threat. However, AI results depend on the quality of the data and the design of the system. Human oversight remains important when using AI to manage networks.
+
+Resource: NIST - Artificial Intelligence Glossary - https://csrc.nist.gov/glossary/term/artificial_intelligence
+
 Mobile
 Networking
 Cybersecurity
