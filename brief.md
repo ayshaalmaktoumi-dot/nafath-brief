@@ -39,3 +39,4 @@ A common misconception in networking is that switches and routers perform the sa
 Resource: Cisco - What Is Network Switching? - https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-switching.html
 
 Open Question
+How can network administrators balance network performance, security, and cost when designing a network for an organization with many users and connected devices?
