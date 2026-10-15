@@ -21,7 +21,7 @@ Resource: NIST - Guidelines for Managing the Security of Mobile Devices in the E
 Networking
 BGP route hijacking occurs when an autonomous system incorrectly announces an IP address prefix. Resource Public Key Infrastructure (RPKI) helps secure BGP through Route Origin Authorizations (ROAs), which identify authorized route origins. Routers can use RPKI origin validation to classify announcements as valid, invalid, or not found. However, this validation checks the route origin, not the entire path between networks. Therefore, RPKI reduces certain routing risks but cannot prevent all BGP attacks. Network operators also need suitable routing policies and monitoring.
 
-Resource: IETF - RFC 6811: BGP Prefix Origin Validation - https://www.rfc-editor.org/rfc/rfc6811.html
+Resource: IETF - RFC 8481: Clarifications to BGP Origin Validation Based on RPKI - https://www.rfc-editor.org/rfc/rfc8481.html
 
 Cybersecurity
 Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, damage, and digital threats. In networking, cybersecurity helps protect communication between devices and prevents attackers from accessing sensitive information. Common security measures include firewalls, encryption, access controls, and regular software updates. Organizations should also monitor network activity to identify unusual behavior and respond to security incidents. The NIST Cybersecurity Framework 1.1 organizes cybersecurity risk management into five functions: Identify, Protect, Detect, Respond, and Recover. Together, these functions help organizations manage cybersecurity risks and improve their resilience.
