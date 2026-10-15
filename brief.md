@@ -34,4 +34,8 @@ Data refers to information represented in a form that computers can store, proce
 Resource: NIST - Data Glossary - https://csrc.nist.gov/glossary/term/data
 
 Misconception in MY Track
+A common misconception in networking is that switches and routers perform the same function. In reality, a switch mainly connects devices within a local area network (LAN) and forwards data to the appropriate device. A router connects different networks and forwards data packets between them. Although both devices help communication, they serve different purposes. Understanding this difference helps network users choose the appropriate equipment and design networks more effectively.
+
+Resource: Cisco - What Is Network Switching? - https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-switching.html
+
 Open Question
