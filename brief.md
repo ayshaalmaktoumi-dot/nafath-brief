@@ -24,6 +24,10 @@ Computer networking is the process of connecting devices so they can communicate
 Resource: IETF - RFC 1122: Requirements for Internet Hosts - Communication Layers - https://www.rfc-editor.org/rfc/rfc1122.html
 
 Cybersecurity
+Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, damage, and digital threats. In networking, cybersecurity helps protect communication between devices and prevents attackers from accessing sensitive information. Common security measures include firewalls, encryption, access controls, and regular software updates. Organizations should also monitor network activity to identify unusual behavior and respond to security incidents. The NIST Cybersecurity Framework 1.1 organizes cybersecurity risk management into five functions:Identify, Protect, Detect, Respond, and Recover. Together, these functions help organizations manage cybersecurity risks and improve their resilience.
+
+Resource: NIST - The NIST Cybersecurity Framework (CSF) 2.0 - https://www.nist.gov/cyberframework/csf-11-five-functions
+
 Data
 Misconception in MY Track
 Open Question
