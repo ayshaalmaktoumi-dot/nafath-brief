@@ -26,7 +26,7 @@ Resource: IETF - RFC 6811: BGP Prefix Origin Validation - https://www.rfc-editor
 Cybersecurity
 Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, damage, and digital threats. In networking, cybersecurity helps protect communication between devices and prevents attackers from accessing sensitive information. Common security measures include firewalls, encryption, access controls, and regular software updates. Organizations should also monitor network activity to identify unusual behavior and respond to security incidents. The NIST Cybersecurity Framework 1.1 organizes cybersecurity risk management into five functions: Identify, Protect, Detect, Respond, and Recover. Together, these functions help organizations manage cybersecurity risks and improve their resilience.
 
-Resource: NIST - Cybersecurity Framework 1.1: Five Functions - https://www.nist.gov/cyberframework/csf-11-five-functions
+Resource: NIST - Cybersecurity Framework 1.1 Components - https://www.nist.gov/cyberframework/cybersecurity-framework-11-components
 
 Data
 Data refers to information represented in a form that computers can store, process, or transmit. In networking, data travels between devices in units such as packets, which carry information across interconnected networks. Examples of network data include messages, files, images, and requests sent between applications and servers. Network protocols help determine how data is addressed and delivered to its destination. Protecting data is also essential because information may contain private or sensitive details. Encryption, access controls, and secure communication protocols help maintain data confidentiality and integrity.
@@ -40,3 +40,5 @@ Resource: Cisco - What Is Network Switching? - https://www.cisco.com/site/us/en/
 
 Open Question
 How can network administrators balance network performance, security, and cost when designing a network for an organization with many users and connected devices?
+
+Resource: NIST - Guide to a Secure Enterprise Network Landscape - https://csrc.nist.gov/pubs/sp/800/215/final
