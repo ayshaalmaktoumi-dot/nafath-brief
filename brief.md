@@ -19,6 +19,10 @@ Mobile devices, such as smartphones and tablets, allow users to access applicati
 Resource: NIST - Guidelines for Managing the Security of Mobile Devices in the Enterprise - https://csrc.nist.gov/pubs/sp/800/124/r2/final
 
 Networking
+Computer networking is the process of connecting devices so they can communicate and share data and resources. Networks use communication protocols to define how information is formatted, addressed, transmitted, and received. The Internet Protocol (IP) helps route data packets between networks, while transport protocols support communication between applications. Routers connect different networks and forward packets toward their destinations. Networking is essential for services such as web browsing, email, cloud computing, and online collaboration. Reliable network design also considers performance, availability, and security.
+
+Resource: IETF - RFC 1122: Requirements for Internet Hosts - Communication Layers - https://www.rfc-editor.org/rfc/rfc1122.html
+
 Cybersecurity
 Data
 Misconception in MY Track
