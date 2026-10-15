@@ -14,6 +14,10 @@ Artificial Intelligence (AI) refers to computer systems designed to perform task
 Resource: NIST - Artificial Intelligence Glossary - https://csrc.nist.gov/glossary/term/artificial_intelligence
 
 Mobile
+Mobile devices, such as smartphones and tablets, allow users to access applications, communicate, and connect to networks from different locations. In networking, these devices use wireless technologies such as Wi-Fi and cellular networks to exchange data with other devices and online services. However, mobile devices can introduce security risks when they access sensitive information or connect to untrusted networks. Organizations can reduce these risks by applying security updates, using strong authentication, and managing device access. Secure mobile devices help protect both users and the networks they connect to.
+
+Resource: NIST - Guidelines for Managing the Security of Mobile Devices in the Enterprise - https://csrc.nist.gov/pubs/sp/800/124/r2/final
+
 Networking
 Cybersecurity
 Data
