@@ -29,5 +29,9 @@ Cybersecurity is the practice of protecting computer systems, networks, and data
 Resource: NIST - The NIST Cybersecurity Framework (CSF) 2.0 - https://www.nist.gov/cyberframework/csf-11-five-functions
 
 Data
+Data refers to information represented in a form that computers can store, process, or transmit. In networking, data travels between devices in units such as packets, which carry information across interconnected networks. Examples of network data include messages, files, images, and requests sent between applications and servers. Network protocols help determine how data is addressed and delivered to its destination. Protecting data is also essential because information may contain private or sensitive details. Encryption, access controls, and secure communication protocols help maintain data confidentiality and integrity.
+
+Resource: NIST - Data Glossary - https://csrc.nist.gov/glossary/term/data
+
 Misconception in MY Track
 Open Question
